@@ -42,7 +42,7 @@ Follow the same steps as above to install the `Texture Dumper.js` script.
 
 #### **Model Loading Indicator**  
 - If the model is **not fully loaded**, it will look like this:  
-  ![Not Fully Loaded](https://github.com/gamedev44/Fabulous-Ripper/tree/main/Pictures/FullyLoaded.png)  
+  ![Not Fully Loaded](https://raw.githubusercontent.com/gamedev44/Fabulous-Ripper/main/Pictures/FullyLoaded.png)  
   **Do not proceed yet. Wait until it fully loads.**  
 
 - Once the model is **fully loaded**, you will see the download buttons appear.  
@@ -53,7 +53,7 @@ Follow the same steps as above to install the `Texture Dumper.js` script.
    - **Red Button (Recommended):** Use this whenever it is available for your model.  
    - **Green Button (Alternative):** Use this if the red button does not appear.  
 
-  ![Download Buttons](https://github.com/gamedev44/Fabulous-Ripper/tree/main/Pictures/DownloadButtons.png)  
+  ![Download Buttons](https://raw.githubusercontent.com/gamedev44/Fabulous-Ripper/main/Pictures/DownloadButtons.png)  
 
 3. Click the button to start the download.  
 
