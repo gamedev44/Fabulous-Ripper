@@ -50,8 +50,8 @@ Follow the same steps as above to install the `Texture Dumper.js` script.
 ### Step 2: Downloading the Model  
 1. After the model fully loads, the **download buttons** will appear.  
 2. You will see two options:  
-   - **Red Button (Recommended):** Use this whenever it is available for your model.  
-   - **Green Button (Alternative):** Use this if the red button does not appear.  
+   - **Red Button (Recommended):** Use this whenever it is available for your model [it will show at top right of model viewer].  
+   - **White Button (Alternative):** Use this if the red button does not appear for you [it will show at top left of model viewer].  
 
   ![Download Buttons](https://raw.githubusercontent.com/gamedev44/Fabulous-Ripper/main/Pictures/DownloadButtons.png)  
 
